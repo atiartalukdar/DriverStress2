@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StressCalculator</string>
+    <string name="happyEN">Happy</string>
+    <string name="worryEN">Worry</string>
+    <string name="angryEN">Angry</string>
+    <string name="todayEN">Today</string>
+
+    <string name="app_nameBN">স্ট্রেস ক্যালকুলেটর</string>
+    <string name="happyBN">সুখী</string>
+    <string name="worryBN">চিন্তিত</string>
+    <string name="angryBN">উত্তেজিত</string>
+    <string name="todayBN">আজ</string>
+
+
+</resources>
